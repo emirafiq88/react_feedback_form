@@ -1,1 +1,3 @@
-# coding-project-template
+<h1>Lab: Create Feedback Form for Survey</h1>
+
+<p>In this lab, you will create a feedback form using React functional components and manage user details using the <strong>useState</strong> hook. You will implement event handlers to manage form input changes, validate user inputs, and handle form submissions. Additionally, you will create a confirmation dialog using the <strong>confirm</strong> method to confirm user details before final submission. Upon successful submission, you will reset the form fields and display a thank you message to the user. This lab will give you practical experience building interactive forms and handling user inputs in React applications.</p>
